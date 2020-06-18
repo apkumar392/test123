@@ -1,7 +1,7 @@
 ## Welcome to GitHub Games
 
 A project based learning activity for people who are getting started with Git and GitHub.
-
+added by me
 To play the game:
 1. Go to the **Settings** tab of this repository.
 1. Scroll down to the section titled _GitHub Pages_
